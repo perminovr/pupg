@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {
+		"files.associations": {
+			"usarthandler.h": "c",
+			"keyhandler.h": "c",
+			"freertosconfig.h": "c",
+			"eeprom.h": "c",
+			"retain.h": "c",
+			"database.h": "c",
+			"freertos.h": "c",
+			"queue.h": "c",
+			"buttonshandler.h": "c",
+			"stdint.h": "c",
+			"string.h": "c",
+			"float.h": "c",
+			"math.h": "c",
+			"outsig.h": "c",
+			"ventilator.h": "c",
+			"dsw18s20.h": "c",
+			"stm32f4xx.h": "c",
+			"servto.h": "c",
+			"screw.h": "c",
+			"assert.h": "c",
+			"common.h": "c",
+			"logserv.h": "c",
+			"stdarg.h": "c",
+			"stdlib.h": "c",
+			"yvals.h": "c",
+			"errormanager.h": "c",
+			"observer.h": "c"
+		},
+		"editor.insertSpaces": false
+	}
+}
